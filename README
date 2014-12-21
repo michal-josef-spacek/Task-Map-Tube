@@ -1,0 +1,22 @@
+NAME
+    Task::Map::Tube - Install the Map::Tube modules.
+
+SEE ALSO
+    Map::Tube,
+
+REPOSITORY
+    <https://github.com/tupinek/Taks-Map-Tube>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2014 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
