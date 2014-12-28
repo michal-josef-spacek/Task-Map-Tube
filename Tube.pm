@@ -21,7 +21,7 @@ Task::Map::Tube - Install the Map::Tube modules.
 
 =head1 SEE ALSO
 
-L<Map::Tube>,
+L<Map::Tube>.
 
 =head1 REPOSITORY
 
