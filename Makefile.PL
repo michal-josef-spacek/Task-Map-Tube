@@ -27,6 +27,7 @@ requires 'Map::Tube::London' => 0;
 requires 'Map::Tube::Minsk' => 0;
 requires 'Map::Tube::Moscow' => 0;
 requires 'Map::Tube::NYC' => 0;
+requires 'Map::Tube::Nanjing' => 0;
 requires 'Map::Tube::Novosibirsk' => 0;
 requires 'Map::Tube::Prague' => 0;
 requires 'Map::Tube::SaintPetersburg' => 0;
