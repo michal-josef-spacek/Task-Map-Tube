@@ -30,6 +30,7 @@ requires:
   Map::Tube::Barcelona: 0
   Map::Tube::Berlin: 0
   Map::Tube::Bucharest: 0
+  Map::Tube::Budapest: 0
   Map::Tube::Delhi: 0
   Map::Tube::Dnipropetrovsk: 0
   Map::Tube::GraphViz: 0
