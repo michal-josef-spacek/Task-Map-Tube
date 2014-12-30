@@ -16,6 +16,7 @@ requires 'Map::Tube' => 0;
 requires 'Map::Tube::Barcelona' => 0;
 requires 'Map::Tube::Berlin' => 0;
 requires 'Map::Tube::Bucharest' => 0;
+requires 'Map::Tube::Budapest' => 0;
 requires 'Map::Tube::Delhi' => 0;
 requires 'Map::Tube::Dnipropetrovsk' => 0;
 requires 'Map::Tube::GraphViz' => 0;
