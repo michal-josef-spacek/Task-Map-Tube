@@ -1,7 +1,7 @@
 0.02
  - Add Map::Tube::Budapest.
  - Add Map::Tube::Nanjing.
- - Fix SEE ALSO section in doc.
+ - Add all modules to SEE ALSO section in doc.
 
 0.01 2014-12-27T12:00:42+01:00
  - First version
