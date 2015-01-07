@@ -27,7 +27,7 @@ no_index:
     - t
 requires:
   Map::Tube: 2.61
-  Map::Tube::Barcelona: 0.11
+  Map::Tube::Barcelona: 0.12
   Map::Tube::Berlin: 0.05
   Map::Tube::Bucharest: 0.02
   Map::Tube::Budapest: 0.01
