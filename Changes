@@ -1,4 +1,10 @@
 0.04
+ - Update Map::Tube to 2.61 version.
+ - Update Map::Tube::Barcelona to 0.12 version.
+ - Update Map::Tube::Delhi to 0.24 version.
+ - Update Map::Tube::London to 0.34 version.
+ - Update Map::Tube::NYC to 0.10 version.
+ - Update Map::Tube::Text::Table to 0.03 version.
 
 0.03 2015-01-06T07:50:46+01:00
  - Add version for each module.
