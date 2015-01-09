@@ -21,6 +21,8 @@ Task::Map::Tube - Install the Map::Tube modules.
 
 =head1 SEE ALSO
 
+L<Task::MapMetro::Maps>.
+
 L<Map::Tube>,
 L<Map::Tube::GraphViz>,
 L<Map::Tube::Text::Table>,

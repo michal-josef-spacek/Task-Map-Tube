@@ -2,6 +2,8 @@ NAME
     Task::Map::Tube - Install the Map::Tube modules.
 
 SEE ALSO
+    Task::MapMetro::Maps.
+
     Map::Tube, Map::Tube::GraphViz, Map::Tube::Text::Table,
 
     Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
