@@ -19,6 +19,10 @@ __END__
 
 Task::Map::Tube - Install the Map::Tube modules.
 
+=head1 SYNOPSIS
+
+ cpanm Task::Map::Tube
+
 =head1 SEE ALSO
 
 L<Task::MapMetro::Maps>.

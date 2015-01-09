@@ -1,6 +1,9 @@
 NAME
     Task::Map::Tube - Install the Map::Tube modules.
 
+SYNOPSIS
+     cpanm Task::Map::Tube
+
 SEE ALSO
     Task::MapMetro::Maps.
 
