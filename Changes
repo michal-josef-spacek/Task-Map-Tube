@@ -1,6 +1,7 @@
 0.06
  - Add SYNOPSIS section to doc.
  - Add Task::MapMetro::Maps to SEE ALSO section in doc.
+ - Update Map::Tube::Minsk to 0.03 version.
 
 0.05 2015-01-09T22:52:13+01:00
  - Update Map::Tube::Barcelona to 0.13 version.
