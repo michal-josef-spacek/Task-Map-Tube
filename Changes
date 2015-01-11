@@ -1,4 +1,5 @@
 0.06
+ - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add SYNOPSIS section to doc.
  - Add Task::MapMetro::Maps to SEE ALSO section in doc.
  - Update Map::Tube::Minsk to 0.03 version.
