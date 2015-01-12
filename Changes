@@ -2,6 +2,7 @@
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add SYNOPSIS section to doc.
  - Add Task::MapMetro::Maps to SEE ALSO section in doc.
+ - Update Map::Tube::Kiev to 0.03 version.
  - Update Map::Tube::Minsk to 0.03 version.
 
 0.05 2015-01-09T22:52:13+01:00
