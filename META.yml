@@ -31,7 +31,7 @@ requires:
   Map::Tube::Berlin: 0.05
   Map::Tube::Bucharest: 0.02
   Map::Tube::Budapest: 0.01
-  Map::Tube::Delhi: 0.25
+  Map::Tube::Delhi: 0.27
   Map::Tube::Dnipropetrovsk: 0.02
   Map::Tube::Graph: 0.01
   Map::Tube::GraphViz: 0.01
