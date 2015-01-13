@@ -41,7 +41,7 @@ requires:
   Map::Tube::London: 0.36
   Map::Tube::Minsk: 0.03
   Map::Tube::Moscow: 0.02
-  Map::Tube::NYC: 0.11
+  Map::Tube::NYC: 0.12
   Map::Tube::Nanjing: 0.01
   Map::Tube::Novosibirsk: 0.01
   Map::Tube::Prague: 0.06
