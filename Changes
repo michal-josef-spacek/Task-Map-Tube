@@ -1,5 +1,6 @@
 0.07
  - Update Map::Tube to 2.62 version.
+ - Update Map::Tube::London to 0.36 version.
 
 0.06 2015-01-13T10:04:42+01:00
  - Add Map::Tube::Graph to SEE ALSO section in doc.
