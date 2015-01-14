@@ -59,7 +59,7 @@ L<Map::Tube::Yekaterinburg>.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Taks-Map-Tube>
+L<https://github.com/tupinek/Task-Map-Tube>
 
 =head1 AUTHOR
 
