@@ -1,6 +1,7 @@
 0.08
  - Update Map::Tube::Barcelona to 0.16 version.
  - Update Map::Tube::Graph to 0.03 version.
+ - Update Map::Tube::London to 0.38 version.
 
 0.07 2015-01-15T00:53:13+01:00
  - Fix REPOSITORY section in doc.
