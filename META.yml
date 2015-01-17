@@ -33,7 +33,7 @@ requires:
   Map::Tube::Budapest: 0.01
   Map::Tube::Delhi: 0.27
   Map::Tube::Dnipropetrovsk: 0.02
-  Map::Tube::Graph: 0.03
+  Map::Tube::Graph: 0.04
   Map::Tube::GraphViz: 0.01
   Map::Tube::Kazan: 0.02
   Map::Tube::Kharkiv: 0.03
