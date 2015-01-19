@@ -8,7 +8,7 @@ SEE ALSO
     Task::MapMetro::Maps.
 
     Map::Tube, Map::Tube::Graph, Map::Tube::GraphViz,
-    Map::Tube::Text::Table,
+    Map::Tube::Plugin::Graph, Map::Tube::Text::Table,
 
     Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
     Map::Tube::Budapest, Map::Tube::Delhi, Map::Tube::Dnipropetrovsk,
