@@ -1,5 +1,6 @@
 0.09
  - Update Map::Tube to 2.65 version.
+ - Update Map::Tube::GraphViz to 0.02 version.
  - Update Map::Tube::London to 0.41 version.
  - Update Map::Tube::Plugin::Graph to 0.03 version.
 
