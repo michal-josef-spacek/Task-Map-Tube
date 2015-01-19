@@ -12,7 +12,7 @@ license 'bsd';
 license 'artistic_2';
 name 'Task-Map-Tube';
 readme_from 'Tube.pm';
-requires 'Map::Tube' => 2.63;
+requires 'Map::Tube' => 2.64;
 requires 'Map::Tube::Barcelona' => 0.16;
 requires 'Map::Tube::Berlin' => 0.05;
 requires 'Map::Tube::Bucharest' => 0.02;
