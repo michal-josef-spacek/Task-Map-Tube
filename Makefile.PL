@@ -15,7 +15,7 @@ readme_from 'Tube.pm';
 requires 'Map::Tube' => 2.66;
 requires 'Map::Tube::Barcelona' => 0.16;
 requires 'Map::Tube::Berlin' => 0.05;
-requires 'Map::Tube::Bucharest' => 0.02;
+requires 'Map::Tube::Bucharest' => 0.03;
 requires 'Map::Tube::Budapest' => 0.01;
 requires 'Map::Tube::Delhi' => 0.27;
 requires 'Map::Tube::Dnipropetrovsk' => 0.02;
