@@ -44,7 +44,7 @@ requires:
   Map::Tube::NYC: 0.12
   Map::Tube::Nanjing: 0.01
   Map::Tube::Novosibirsk: 0.01
-  Map::Tube::Plugin::Graph: 0.04
+  Map::Tube::Plugin::Graph: 0.05
   Map::Tube::Prague: 0.06
   Map::Tube::SaintPetersburg: 0.02
   Map::Tube::Samara: 0.01
