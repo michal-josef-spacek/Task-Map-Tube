@@ -28,7 +28,7 @@ no_index:
 requires:
   Map::Tube: 2.67
   Map::Tube::Barcelona: 0.16
-  Map::Tube::Berlin: 0.05
+  Map::Tube::Berlin: 0.06
   Map::Tube::Bucharest: 0.03
   Map::Tube::Budapest: 0.01
   Map::Tube::Delhi: 0.27
