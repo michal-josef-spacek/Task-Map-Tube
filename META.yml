@@ -48,7 +48,7 @@ requires:
   Map::Tube::Prague: 0.07
   Map::Tube::SaintPetersburg: 0.02
   Map::Tube::Samara: 0.01
-  Map::Tube::Sofia: 0.04
+  Map::Tube::Sofia: 0.05
   Map::Tube::Tbilisi: 0.02
   Map::Tube::Text::Table: 0.04
   Map::Tube::Tokyo: 0.13
