@@ -38,6 +38,7 @@ requires 'Map::Tube::Sofia' => 0.04;
 requires 'Map::Tube::Tbilisi' => 0.02;
 requires 'Map::Tube::Text::Table' => 0.04;
 requires 'Map::Tube::Tokyo' => 0.13;
+requires 'Map::Tube::Vienna' => 0.02;
 requires 'Map::Tube::Warsaw' => 0.02;
 requires 'Map::Tube::Yekaterinburg' => 0.01;
 requires 'perl' => '5.6.0';
