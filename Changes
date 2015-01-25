@@ -1,5 +1,6 @@
 0.13
  - Add Map::Tube::Vienna 0.02 version.
+ - Update Map::Tube::GraphViz to 0.03 version.
  - Update Map::Tube::Prague to 0.07 version.
 
 0.12 2015-01-24T18:44:09+01:00
