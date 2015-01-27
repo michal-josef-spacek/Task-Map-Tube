@@ -26,6 +26,7 @@ requires 'Map::Tube::Kazan' => 0.02;
 requires 'Map::Tube::Kharkiv' => 0.03;
 requires 'Map::Tube::Kiev' => 0.03;
 requires 'Map::Tube::London' => 0.46;
+requires 'Map::Tube::Lyon' => 0.02;
 requires 'Map::Tube::Minsk' => 0.03;
 requires 'Map::Tube::Moscow' => 0.02;
 requires 'Map::Tube::NYC' => 0.12;
