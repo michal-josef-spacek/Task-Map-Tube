@@ -19,6 +19,7 @@ requires 'Map::Tube::Bucharest' => 0.03;
 requires 'Map::Tube::Budapest' => 0.01;
 requires 'Map::Tube::Delhi' => 0.27;
 requires 'Map::Tube::Dnipropetrovsk' => 0.02;
+requires 'Map::Tube::Glasgow' => 0.02;
 requires 'Map::Tube::Graph' => 0.04;
 requires 'Map::Tube::GraphViz' => 0.04;
 requires 'Map::Tube::Kazan' => 0.02;
