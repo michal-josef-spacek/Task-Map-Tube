@@ -1,4 +1,5 @@
 0.16
+ - Update Map::Tube::Delhi to 0.30 version.
  - Update Map::Tube::London to 0.51 version.
  - Update Map::Tube::Plugin::Graph to 0.11 version.
 
