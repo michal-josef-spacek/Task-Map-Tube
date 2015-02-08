@@ -54,7 +54,7 @@ requires:
   Map::Tube::Sofia: 0.05
   Map::Tube::Tbilisi: 0.02
   Map::Tube::Text::Table: 0.04
-  Map::Tube::Tokyo: 0.13
+  Map::Tube::Tokyo: 0.14
   Map::Tube::Vienna: 0.02
   Map::Tube::Warsaw: 0.02
   Map::Tube::Yekaterinburg: 0.01
