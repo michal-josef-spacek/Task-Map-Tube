@@ -1,6 +1,7 @@
 0.17
  - Update Map::Tube to 2.78 version.
  - Update Map::Tube::Barcelona to 0.19 version.
+ - Update Map::Tube::Glasgow to 0.03 version.
  - Update Map::Tube::Lyon to 0.03 version.
  - Update Map::Tube::NYC to 0.13 version.
  - Update Map::Tube::Tokyo to 0.14 version.
