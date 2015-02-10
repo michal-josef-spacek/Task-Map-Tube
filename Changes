@@ -2,6 +2,7 @@
  - Update Map::Tube to 2.80 version.
  - Update Map::Tube::Delhi to 0.31 version.
  - Update Map::Tube::London to 0.53 version.
+ - Update Map::Tube::NYC to 0.14 version.
  - Update Map::Tube::Plugin::Graph to 0.14 version.
 
 0.17 2015-02-08T21:31:00+01:00
