@@ -37,6 +37,7 @@ requires 'Map::Tube::Plugin::Graph' => 0.16;
 requires 'Map::Tube::Prague' => 0.07;
 requires 'Map::Tube::SaintPetersburg' => 0.02;
 requires 'Map::Tube::Samara' => 0.01;
+requires 'Map::Tube::Singapore' => 0.01;
 requires 'Map::Tube::Sofia' => 0.05;
 requires 'Map::Tube::Tbilisi' => 0.02;
 requires 'Map::Tube::Text::Table' => 0.04;
