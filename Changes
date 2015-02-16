@@ -1,6 +1,7 @@
 0.19
  - Add Map::Tube::Singapore 0.01 version.
  - Update Map::Tube to 2.83 version.
+ - Update Map::Tube::NYC to 0.15 version.
  - Update Map::Tube::Plugin::Graph to 0.16 version.
 
 0.18 2015-02-10T14:34:15+01:00
