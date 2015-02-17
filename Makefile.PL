@@ -33,6 +33,7 @@ requires 'Map::Tube::Moscow' => 0.02;
 requires 'Map::Tube::NYC' => 0.15;
 requires 'Map::Tube::Nanjing' => 0.01;
 requires 'Map::Tube::Novosibirsk' => 0.01;
+requires 'Map::Tube::Plugin::FuzzyFind' => 0.01;
 requires 'Map::Tube::Plugin::Graph' => 0.16;
 requires 'Map::Tube::Prague' => 0.07;
 requires 'Map::Tube::SaintPetersburg' => 0.02;
