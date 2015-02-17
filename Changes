@@ -1,5 +1,6 @@
 0.20
  - Add Map::Tube::Plugin::FuzzyFind 0.01 version.
+ - Update Map::Tube::NYC to 0.17 version.
 
 0.19 2015-02-16T17:52:24+01:00
  - Add Map::Tube::Singapore 0.01 version.
