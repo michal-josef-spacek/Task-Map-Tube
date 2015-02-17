@@ -59,7 +59,7 @@ requires:
   Map::Tube::Tokyo: 0.14
   Map::Tube::Vienna: 0.02
   Map::Tube::Warsaw: 0.02
-  Map::Tube::Yekaterinburg: 0.01
+  Map::Tube::Yekaterinburg: 0.02
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Map-Tube
