@@ -50,7 +50,7 @@ requires:
   Map::Tube::Plugin::FuzzyFind: 0.01
   Map::Tube::Plugin::Graph: 0.16
   Map::Tube::Prague: 0.07
-  Map::Tube::SaintPetersburg: 0.02
+  Map::Tube::SaintPetersburg: 0.03
   Map::Tube::Samara: 0.01
   Map::Tube::Singapore: 0.01
   Map::Tube::Sofia: 0.05
