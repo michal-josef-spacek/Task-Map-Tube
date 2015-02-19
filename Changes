@@ -1,6 +1,7 @@
 0.22
  - Update Map::Tube::London to 0.62 version.
  - Update Map::Tube::Moscow to 0.03 version.
+ - Update Map::Tube::Plugin::FuzzyFind 0.02 version.
 
 0.21 2015-02-18T07:19:42+01:00
  - Update Map::Tube to 2.84 version.
