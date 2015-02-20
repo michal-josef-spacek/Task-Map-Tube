@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 dcccc72f7e553a8433d9be620086c363371c21df Changes
+SHA1 12de8052299aaa8c82bdb369beb9aa6dd16bd55f Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 2dd5be67185f7849bbea455ebeabb7f569888fa2 MANIFEST
-SHA1 feb7520976511933a1925b9090d0ef40bc72405a META.yml
-SHA1 2c3f9292f91c9cf9d6d0a38e1ee19600989ec876 Makefile.PL
-SHA1 ac4de2e1fe6acfba9c26e0b460a01ef8afa72b08 README
-SHA1 e1f2caefecaabf7e3e20b505dd175ee2dffe0ae5 Tube.pm
+SHA1 4e5c7a4a1cce7125c7349be1e087b302b2f9f5fb META.yml
+SHA1 90d1c5a3fcdf41510fdd7559578ddc8791cb5c60 Makefile.PL
+SHA1 d82f72f4fbe13bf847644562d8bfc637c0ebcf10 README
+SHA1 ecbb26037cc3bc7ac1172aaa82c0397e196419f6 Tube.pm
 SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
 SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
 SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
@@ -32,17 +32,17 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
 SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
 SHA1 7619584b1181c1dbe27b5e26741c0b0ad85e4c14 t/Task-Map-Tube/00-use.t
-SHA1 65b63eb391217097805f49bd78c82a41141e1f22 t/Task-Map-Tube/01-version.t
+SHA1 9f8ddcb6ef13b27856f2370faa06c5a110a0e8c4 t/Task-Map-Tube/01-version.t
 SHA1 28acc962f8d066ba41ee5af8d556848f26cb38c5 t/Task-Map-Tube/02-pod_coverage.t
 SHA1 7d1194dcd2d485f3382aced28c8dd6201fbd760f t/Task-Map-Tube/03-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJU5C8GAAoJEJe+XXKaIuTl6AwIAKHpbMXLRYbuq4rsLojgruUA
-8uteExW3QaHwXdx+zrLyR8oazMwEeopWzwMwtMkGYOkfdUI5U5FR9Ev4LJvbLQMq
-0mOQT+P3jY7HC0KAmUfpndmo4OVoIBMYk0kjV886q7khIm9/bb2hBbR5tl6blSv9
-xTizSptBZZYHM5aR8V2C0Wnp8kySW6uDWajS5sL1R5pLdlGBAzbn1gOTEE7/8ScU
-BNUHftXBjlrl9iEg3oj6TZPLPmsNU4nFHBy/wrHofxuxweIIPDOdkiZWLqlMOnKD
-HtJUUYziKAGasz/CR4R7xDw3efzz0yWxZNx6a+Gcn7BJdM43QTuJ7ovL2vicyX0=
-=WmAi
+iQEcBAEBAgAGBQJU5toPAAoJEJe+XXKaIuTlpywH/jZrsF1HkQQrnkMrsExdlZyi
+Gu7UnyLPQg7H/YlLZhqNefqCyge4biCzopjFff8zrv1fDyU0wbrp3iA7wKqKyTWu
+phDHQj0tavEnyIpy9hpZfqjC3qK3Vvj+78W58zvTu/GkrLOZfNX8Z+WyHtG/IGmm
+brzdzI2HXHu8MJIE0cERT8Qpv9mfSY5xly+Wl0Qx1mLbboz8GP6wukpWy3P1p19m
+eQ4jqpfjzvziFGAoCII/zxxtJE+fl1rxeatjYR4ZJfrU2fQZPNQR5OX6FkcQ3KT9
+HmC16db0GtRD5OUSHjvW4xu67ibU81WSlP1VP7chASf3I5KiScxJRxU9QSDh15g=
+=Ctg2
 -----END PGP SIGNATURE-----
