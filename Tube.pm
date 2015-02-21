@@ -33,6 +33,7 @@ L<Map::Tube::GraphViz>,
 L<Map::Tube::Plugin::FuzzyFind>,
 L<Map::Tube::Plugin::Graph>,
 L<Map::Tube::Text::Table>,
+L<Test::Map::Tube>,
 
 L<Map::Tube::Barcelona>,
 L<Map::Tube::Berlin>,

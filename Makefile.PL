@@ -46,6 +46,7 @@ requires 'Map::Tube::Tokyo' => 0.14;
 requires 'Map::Tube::Vienna' => 0.02;
 requires 'Map::Tube::Warsaw' => 0.02;
 requires 'Map::Tube::Yekaterinburg' => 0.02;
+requires 'Test::Map::Tube' => 0.02;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Map-Tube';
