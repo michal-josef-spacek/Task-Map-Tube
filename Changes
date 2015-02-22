@@ -1,5 +1,6 @@
 0.24
  - Add Map::Tube::Text::Shortest 0.01 version.
+ - Update Map::Tube to 2.87 version.
 
 0.23 2015-02-21T23:05:54+01:00
  - Add Test::Map::Tube 0.02 version.
