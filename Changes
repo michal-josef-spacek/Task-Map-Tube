@@ -1,4 +1,5 @@
 0.24
+ - Add Map::Tube::Beijing 0.01 version.
  - Add Map::Tube::Text::Shortest 0.01 version.
  - Update Map::Tube to 2.87 version.
  - Update Map::Tube::London to 0.66 version.

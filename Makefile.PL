@@ -14,6 +14,7 @@ name 'Task-Map-Tube';
 readme_from 'Tube.pm';
 requires 'Map::Tube' => 2.87;
 requires 'Map::Tube::Barcelona' => 0.19;
+requires 'Map::Tube::Beijing' => 0.01;
 requires 'Map::Tube::Berlin' => 0.07;
 requires 'Map::Tube::Bucharest' => 0.03;
 requires 'Map::Tube::Budapest' => 0.01;

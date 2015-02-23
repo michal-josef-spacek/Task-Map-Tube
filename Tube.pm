@@ -37,6 +37,7 @@ L<Map::Tube::Text::Table>,
 L<Test::Map::Tube>,
 
 L<Map::Tube::Barcelona>,
+L<Map::Tube::Beijing>,
 L<Map::Tube::Berlin>,
 L<Map::Tube::Bucharest>,
 L<Map::Tube::Budapest>,
