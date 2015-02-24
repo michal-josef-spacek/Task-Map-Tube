@@ -2,6 +2,7 @@
  - Update Map::Tube::Delhi to 0.32 version.
  - Update Map::Tube::GraphViz to 0.06 version.
  - Update Map::Tube::Plugin::FuzzyFind 0.03 version.
+ - Update Map::Tube::Tokyo to 0.16 version.
  - Update Test::Map::Tube to 0.04 version.
 
 0.24 2015-02-23T12:48:14+01:00
