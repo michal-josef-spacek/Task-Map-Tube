@@ -1,4 +1,5 @@
 0.25
+ - Update Map::Tube::GraphViz to 0.06 version.
  - Update Map::Tube::Plugin::FuzzyFind 0.03 version.
  - Update Test::Map::Tube to 0.03 version.
 
