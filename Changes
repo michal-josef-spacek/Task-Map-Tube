@@ -3,6 +3,7 @@
  - Update Map::Tube::London to 0.69 version.
  - Update Map::Tube::NYC to 0.22 version.
  - Update Map::Tube::Tokyo to 0.18 version.
+ - Update Test::Map::Tube to 0.05 version.
 
 0.26 2015-02-26T22:21:25+01:00
  - Update Map::Tube::Glasgow to 0.06 version.
