@@ -32,7 +32,7 @@ requires:
   Map::Tube::Berlin: 0.07
   Map::Tube::Bucharest: 0.03
   Map::Tube::Budapest: 0.01
-  Map::Tube::Delhi: 0.32
+  Map::Tube::Delhi: 0.33
   Map::Tube::Dnipropetrovsk: 0.02
   Map::Tube::Glasgow: 0.06
   Map::Tube::Graph: 0.04
