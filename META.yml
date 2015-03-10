@@ -49,7 +49,7 @@ requires:
   Map::Tube::Nanjing: 0.01
   Map::Tube::Novosibirsk: 0.01
   Map::Tube::Plugin::FuzzyFind: 0.05
-  Map::Tube::Plugin::Graph: 0.17
+  Map::Tube::Plugin::Graph: 0.18
   Map::Tube::Prague: 0.08
   Map::Tube::SaintPetersburg: 0.03
   Map::Tube::Samara: 0.01
