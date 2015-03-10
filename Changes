@@ -1,6 +1,7 @@
 0.29
  - Update Map::Tube to 2.88 version.
  - Update Map::Tube::Moscow to 0.05 version.
+ - Update Map::Tube::Plugin::FuzzyFind 0.05 version.
  - Update Map::Tube::Plugin::Graph to 0.17 version.
  - Update Map::Tube::Prague to 0.08 version.
  - Update Test::Map::Tube to 0.07 version.
