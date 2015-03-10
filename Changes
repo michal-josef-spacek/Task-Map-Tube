@@ -1,6 +1,7 @@
 0.29
  - Update Map::Tube to 2.88 version.
  - Update Map::Tube::Moscow to 0.05 version.
+ - Update Map::Tube::Plugin::Graph to 0.17 version.
  - Update Map::Tube::Prague to 0.08 version.
 
 0.28 2015-03-07T23:45:06+01:00
