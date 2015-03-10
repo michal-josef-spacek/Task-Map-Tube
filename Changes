@@ -1,5 +1,6 @@
 0.29
  - Update Map::Tube to 2.88 version.
+ - Update Map::Tube::KoelnBonn to 0.08 version.
  - Update Map::Tube::Lyon to 0.06 version.
  - Update Map::Tube::Moscow to 0.05 version.
  - Update Map::Tube::Plugin::FuzzyFind 0.05 version.
