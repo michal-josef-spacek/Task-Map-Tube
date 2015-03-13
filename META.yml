@@ -61,7 +61,7 @@ requires:
   Map::Tube::Tokyo: 0.18
   Map::Tube::Vienna: 0.02
   Map::Tube::Warsaw: 0.02
-  Map::Tube::Yekaterinburg: 0.02
+  Map::Tube::Yekaterinburg: 0.03
   Test::Map::Tube: 0.07
   perl: 5.6.0
 resources:
