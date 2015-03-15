@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 # Version.
-our $VERSION = 0.30;
+our $VERSION = 0.31;
 
 1;
 
@@ -84,6 +84,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.30
+0.31
 
 =cut
