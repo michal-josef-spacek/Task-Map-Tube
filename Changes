@@ -1,4 +1,5 @@
 0.31
+ - Add Map::Tube::Plugin::Formatter 0.03 version.
  - Update Map::Tube to 2.93 version.
  - Update Map::Tube::London to 0.71 version.
  - Update Map::Tube::Vienna to 0.04 version.

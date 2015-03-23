@@ -8,8 +8,9 @@ SEE ALSO
     Task::MapMetro::Maps.
 
     Map::Tube, Map::Tube::Graph, Map::Tube::GraphViz,
-    Map::Tube::Plugin::FuzzyFind, Map::Tube::Plugin::Graph,
-    Map::Tube::Text::Shortest, Map::Tube::Text::Table, Test::Map::Tube,
+    Map::Tube::Plugin::Formatter, Map::Tube::Plugin::FuzzyFind,
+    Map::Tube::Plugin::Graph, Map::Tube::Text::Shortest,
+    Map::Tube::Text::Table, Test::Map::Tube,
 
     Map::Tube::Barcelona, Map::Tube::Beijing, Map::Tube::Berlin,
     Map::Tube::Bucharest, Map::Tube::Budapest, Map::Tube::Delhi,
