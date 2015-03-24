@@ -1,6 +1,6 @@
 0.32
  - Update Map::Tube to 2.94 version.
- - Update Map::Tube::Plugin::Formatter to 0.05 version.
+ - Update Map::Tube::Plugin::Formatter to 0.06 version.
 
 0.31 2015-03-23T13:14:16+01:00
  - Add Map::Tube::Plugin::Formatter 0.03 version.
