@@ -7,7 +7,7 @@ SYNOPSIS
 SEE ALSO
     Task::MapMetro::Maps.
 
-    Map::Tube, Map::Tube::Graph, Map::Tube::GraphViz,
+    Map::Tube, Map::Tube::CLI, Map::Tube::Graph, Map::Tube::GraphViz,
     Map::Tube::Plugin::Formatter, Map::Tube::Plugin::FuzzyFind,
     Map::Tube::Plugin::Graph, Map::Tube::Text::Shortest,
     Map::Tube::Text::Table, Test::Map::Tube,

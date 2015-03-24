@@ -28,6 +28,7 @@ Task::Map::Tube - Install the Map::Tube modules.
 L<Task::MapMetro::Maps>.
 
 L<Map::Tube>,
+L<Map::Tube::CLI>,
 L<Map::Tube::Graph>,
 L<Map::Tube::GraphViz>,
 L<Map::Tube::Plugin::Formatter>,

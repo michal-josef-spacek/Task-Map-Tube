@@ -1,4 +1,5 @@
 0.32
+ - Add Map::Tube::CLI 0.02 version.
  - Update Map::Tube to 2.94 version.
  - Update Map::Tube::Plugin::Formatter to 0.06 version.
 
