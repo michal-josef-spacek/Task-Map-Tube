@@ -1,5 +1,6 @@
 0.33
  - Update Map::Tube to 2.97 version.
+ - Update Map::Tube::Berlin to 0.09 version.
  - Update Map::Tube::CLI 0.06 version.
  - Update Map::Tube::London to 0.72 version.
  - Update Map::Tube::Plugin::Formatter to 0.07 version.

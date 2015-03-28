@@ -29,7 +29,7 @@ requires:
   Map::Tube: 2.97
   Map::Tube::Barcelona: 0.2
   Map::Tube::Beijing: 0.01
-  Map::Tube::Berlin: 0.08
+  Map::Tube::Berlin: 0.09
   Map::Tube::Bucharest: 0.05
   Map::Tube::Budapest: 0.02
   Map::Tube::CLI: 0.06
