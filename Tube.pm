@@ -27,6 +27,8 @@ Task::Map::Tube - Install the Map::Tube modules.
 
 L<Task::MapMetro::Maps>.
 
+L<Task::Map::Tube::Metro>.
+
 L<Map::Tube>,
 L<Map::Tube::CLI>,
 L<Map::Tube::Graph>,
@@ -37,36 +39,6 @@ L<Map::Tube::Plugin::Graph>,
 L<Map::Tube::Text::Shortest>,
 L<Map::Tube::Text::Table>,
 L<Test::Map::Tube>,
-
-L<Map::Tube::Barcelona>,
-L<Map::Tube::Beijing>,
-L<Map::Tube::Berlin>,
-L<Map::Tube::Bucharest>,
-L<Map::Tube::Budapest>,
-L<Map::Tube::Delhi>,
-L<Map::Tube::Dnipropetrovsk>,
-L<Map::Tube::Glasgow>,
-L<Map::Tube::Kazan>,
-L<Map::Tube::Kharkiv>,
-L<Map::Tube::Kiev>,
-L<Map::Tube::KoelnBonn>,
-L<Map::Tube::London>,
-L<Map::Tube::Lyon>,
-L<Map::Tube::Minsk>,
-L<Map::Tube::Moscow>,
-L<Map::Tube::NYC>,
-L<Map::Tube::Nanjing>,
-L<Map::Tube::Novosibirsk>,
-L<Map::Tube::Prague>,
-L<Map::Tube::SaintPetersburg>,
-L<Map::Tube::Samara>,
-L<Map::Tube::Singapore>,
-L<Map::Tube::Sofia>,
-L<Map::Tube::Tbilisi>,
-L<Map::Tube::Tokyo>,
-L<Map::Tube::Vienna>,
-L<Map::Tube::Warsaw>,
-L<Map::Tube::Yekaterinburg>.
 
 =head1 REPOSITORY
 

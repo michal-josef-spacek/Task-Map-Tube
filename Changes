@@ -1,4 +1,5 @@
 0.34
+ - Move metro modules to Task::Map::Tube::Metro.
  - Remove obsolete test module dependency.
 
 0.33 2015-03-28T17:49:47+01:00

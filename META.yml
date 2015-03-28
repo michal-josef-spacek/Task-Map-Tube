@@ -26,43 +26,15 @@ no_index:
     - t
 requires:
   Map::Tube: 2.97
-  Map::Tube::Barcelona: 0.2
-  Map::Tube::Beijing: 0.01
-  Map::Tube::Berlin: 0.09
-  Map::Tube::Bucharest: 0.05
-  Map::Tube::Budapest: 0.02
   Map::Tube::CLI: 0.06
-  Map::Tube::Delhi: 0.33
-  Map::Tube::Dnipropetrovsk: 0.03
-  Map::Tube::Glasgow: 0.07
   Map::Tube::Graph: 0.04
   Map::Tube::GraphViz: 0.06
-  Map::Tube::Kazan: 0.02
-  Map::Tube::Kharkiv: 0.03
-  Map::Tube::Kiev: 0.03
-  Map::Tube::KoelnBonn: 0.09
-  Map::Tube::London: 0.72
-  Map::Tube::Lyon: 0.06
-  Map::Tube::Minsk: 0.03
-  Map::Tube::Moscow: 0.05
-  Map::Tube::NYC: 0.22
-  Map::Tube::Nanjing: 0.02
-  Map::Tube::Novosibirsk: 0.01
   Map::Tube::Plugin::Formatter: 0.07
   Map::Tube::Plugin::FuzzyFind: 0.08
   Map::Tube::Plugin::Graph: 0.18
-  Map::Tube::Prague: 0.1
-  Map::Tube::SaintPetersburg: 0.03
-  Map::Tube::Samara: 0.01
-  Map::Tube::Singapore: 0.01
-  Map::Tube::Sofia: 0.05
-  Map::Tube::Tbilisi: 0.02
   Map::Tube::Text::Shortest: 0.01
   Map::Tube::Text::Table: 0.04
-  Map::Tube::Tokyo: 0.18
-  Map::Tube::Vienna: 0.04
-  Map::Tube::Warsaw: 0.04
-  Map::Tube::Yekaterinburg: 0.03
+  Task::Map::Tube::Metro: 0.01
   Test::Map::Tube: 0.07
   perl: 5.6.0
 resources:
