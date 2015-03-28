@@ -35,7 +35,7 @@ test_requires 'Test::NoWarnings' => 0;
 test_requires 'Test::Pod' => 0;
 test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
-version '0.34';
+version '0.35';
 
 # Run.
 WriteAll();
