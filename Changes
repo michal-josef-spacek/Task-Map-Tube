@@ -1,4 +1,5 @@
 0.35
+ - Update Map::Tube to 2.98 version.
 
 0.34 2015-03-28T18:09:27+01:00
  - Move metro modules to Task::Map::Tube::Metro.

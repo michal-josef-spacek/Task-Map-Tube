@@ -12,7 +12,7 @@ license 'bsd';
 license 'artistic_2';
 name 'Task-Map-Tube';
 readme_from 'Tube.pm';
-requires 'Map::Tube' => 2.97;
+requires 'Map::Tube' => 2.98;
 requires 'Map::Tube::CLI' => 0.06;
 requires 'Map::Tube::Graph' => 0.04;
 requires 'Map::Tube::GraphViz' => 0.06;
