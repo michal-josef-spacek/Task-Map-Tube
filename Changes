@@ -1,5 +1,6 @@
 0.35
  - Update Map::Tube to 3.00 version.
+ - Update Map::Tube::CLI 0.07 version.
 
 0.34 2015-03-28T18:09:27+01:00
  - Move metro modules to Task::Map::Tube::Metro.
