@@ -1,4 +1,5 @@
 0.38
+ - Update Task::Map::Tube::Metro to 0.02 version.
 
 0.37 2015-08-07T17:35:06+02:00
  - Update Map::Tube::CLI 0.09 version.
