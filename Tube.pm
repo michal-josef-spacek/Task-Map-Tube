@@ -25,20 +25,57 @@ Task::Map::Tube - Install the Map::Tube modules.
 
 =head1 SEE ALSO
 
-L<Task::MapMetro::Maps>.
+=over
 
-L<Task::Map::Tube::Metro>.
+=item L<Task::MapMetro::Maps>
 
-L<Map::Tube>,
-L<Map::Tube::CLI>,
-L<Map::Tube::Graph>,
-L<Map::Tube::GraphViz>,
-L<Map::Tube::Plugin::Formatter>,
-L<Map::Tube::Plugin::FuzzyFind>,
-L<Map::Tube::Plugin::Graph>,
-L<Map::Tube::Text::Shortest>,
-L<Map::Tube::Text::Table>,
-L<Test::Map::Tube>,
+Map::Metro maps in a bundle.
+
+=item L<Task::Map::Tube::Metro>
+
+Install the Map::Tube concrete metro modules.
+
+=item L<Map::Tube>
+
+Core library as Role (Moo) to process map data.
+
+=item L<Map::Tube::CLI>
+
+Command Line Interface for Map::Tube::* map.
+
+=item L<Map::Tube::Graph>
+
+Graph output for Map::Tube.
+
+=item L<Map::Tube::GraphViz>
+
+GraphViz output for Map::Tube.
+
+=item L<Map::Tube::Plugin::Formatter>
+
+Formatter plugin for Map::Tube.
+
+=item L<Map::Tube::Plugin::FuzzyFind>
+
+Map::Tube add-on for finding stations and lines by inexact name.
+
+=item L<Map::Tube::Plugin::Graph>
+
+Graph plugin for Map::Tube.
+
+=item L<Map::Tube::Text::Shortest>
+
+Shortest route information via Map::Tube object.
+
+=item L<Map::Tube::Text::Table>
+
+Table output for Map::Tube.
+
+=item L<Test::Map::Tube>
+
+Interface to test Map::Tube (map data).
+
+=back
 
 =head1 REPOSITORY
 
