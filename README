@@ -5,14 +5,41 @@ SYNOPSIS
      cpanm Task::Map::Tube
 
 SEE ALSO
-    Task::MapMetro::Maps.
+    Task::MapMetro::Maps
+        Map::Metro maps in a bundle.
 
-    Task::Map::Tube::Metro.
+    Task::Map::Tube::Metro
+        Install the Map::Tube concrete metro modules.
 
-    Map::Tube, Map::Tube::CLI, Map::Tube::Graph, Map::Tube::GraphViz,
-    Map::Tube::Plugin::Formatter, Map::Tube::Plugin::FuzzyFind,
-    Map::Tube::Plugin::Graph, Map::Tube::Text::Shortest,
-    Map::Tube::Text::Table, Test::Map::Tube,
+    Map::Tube
+        Core library as Role (Moo) to process map data.
+
+    Map::Tube::CLI
+        Command Line Interface for Map::Tube::* map.
+
+    Map::Tube::Graph
+        Graph output for Map::Tube.
+
+    Map::Tube::GraphViz
+        GraphViz output for Map::Tube.
+
+    Map::Tube::Plugin::Formatter
+        Formatter plugin for Map::Tube.
+
+    Map::Tube::Plugin::FuzzyFind
+        Map::Tube add-on for finding stations and lines by inexact name.
+
+    Map::Tube::Plugin::Graph
+        Graph plugin for Map::Tube.
+
+    Map::Tube::Text::Shortest
+        Shortest route information via Map::Tube object.
+
+    Map::Tube::Text::Table
+        Table output for Map::Tube.
+
+    Test::Map::Tube
+        Interface to test Map::Tube (map data).
 
 REPOSITORY
     <https://github.com/tupinek/Task-Map-Tube>
