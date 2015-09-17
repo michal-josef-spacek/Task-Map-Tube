@@ -16,6 +16,7 @@ requires 'Map::Tube' => 3.01;
 requires 'Map::Tube::CLI' => 0.12;
 requires 'Map::Tube::Graph' => 0.04;
 requires 'Map::Tube::GraphViz' => 0.06;
+requires 'Map::Tube::Exception' => 3.03;
 requires 'Map::Tube::Plugin::Formatter' => 0.07;
 requires 'Map::Tube::Plugin::FuzzyFind' => 0.08;
 requires 'Map::Tube::Plugin::Graph' => 0.18;
