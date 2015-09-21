@@ -8,10 +8,15 @@ use inc::Module::Install;
 # Definition.
 abstract 'Install the Map::Tube modules.';
 author 'Michal Spacek <skim@cpan.org>';
+author_requires 'English' => 0;
+author_requires 'File::Object' => 0.08;
+author_requires 'Test::Pod' => 0;
+author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 license 'artistic_2';
 name 'Task-Map-Tube';
 readme_from 'Tube.pm';
+recursive_author_tests('xt');
 requires 'Map::Tube' => 3.01;
 requires 'Map::Tube::CLI' => 0.13;
 requires 'Map::Tube::Graph' => 0.04;
@@ -29,12 +34,8 @@ resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Map-Tube';
 resources 'homepage' => 'https://github.com/tupinek/Task-Map-Tube';
 resources 'repository' => 'git://github.com/tupinek/Task-Map-Tube';
-test_requires 'English' => 0;
-test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
-test_requires 'Test::Pod' => 0;
-test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
 version '0.40';
 

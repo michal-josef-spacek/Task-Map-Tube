@@ -1,5 +1,6 @@
 0.40
  - Add Map::Tube::Exception 3.03 version.
+ - Move author tests to xt/ directory.
  - Update Map::Tube to 3.01 version.
  - Update Map::Tube::CLI to 0.13 version.
  - Update Map::Tube::Plugin::Formatter to 0.08 version.
