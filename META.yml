@@ -35,7 +35,7 @@ requires:
   Map::Tube::Plugin::Graph: 0.19
   Map::Tube::Text::Shortest: 0.01
   Map::Tube::Text::Table: 0.04
-  Task::Map::Tube::Metro: 0.03
+  Task::Map::Tube::Metro: 0.04
   Test::Map::Tube: 0.07
   perl: 5.6.0
 resources:

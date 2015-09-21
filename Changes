@@ -4,6 +4,7 @@
  - Update Map::Tube::CLI to 0.13 version.
  - Update Map::Tube::Plugin::Formatter to 0.08 version.
  - Update Map::Tube::Plugin::Graph to 0.19 version.
+ - Update Task::Map::Tube::Metro to 0.04 version.
 
 0.39 2015-09-07T13:54:05+02:00
  - Improve SEE ALSO section in doc.
