@@ -13,7 +13,7 @@ license 'artistic_2';
 name 'Task-Map-Tube';
 readme_from 'Tube.pm';
 requires 'Map::Tube' => 3.01;
-requires 'Map::Tube::CLI' => 0.12;
+requires 'Map::Tube::CLI' => 0.13;
 requires 'Map::Tube::Graph' => 0.04;
 requires 'Map::Tube::GraphViz' => 0.06;
 requires 'Map::Tube::Exception' => 3.03;

@@ -26,7 +26,7 @@ no_index:
     - t
 requires:
   Map::Tube: 3.01
-  Map::Tube::CLI: 0.12
+  Map::Tube::CLI: 0.13
   Map::Tube::Exception: 3.03
   Map::Tube::Graph: 0.04
   Map::Tube::GraphViz: 0.06
