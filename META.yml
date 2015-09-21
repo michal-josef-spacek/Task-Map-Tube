@@ -30,7 +30,7 @@ requires:
   Map::Tube::Exception: 3.03
   Map::Tube::Graph: 0.04
   Map::Tube::GraphViz: 0.06
-  Map::Tube::Plugin::Formatter: 0.07
+  Map::Tube::Plugin::Formatter: 0.08
   Map::Tube::Plugin::FuzzyFind: 0.08
   Map::Tube::Plugin::Graph: 0.18
   Map::Tube::Text::Shortest: 0.01
