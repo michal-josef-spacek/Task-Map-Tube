@@ -1,4 +1,4 @@
-0.40
+0.40 2015-09-21T22:40:30+02:00
  - Add Map::Tube::Exception 3.03 version.
  - Move author tests to xt/ directory.
  - Update Map::Tube to 3.01 version.
