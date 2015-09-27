@@ -1,4 +1,5 @@
 0.41
+ - Update Test::Map::Tube to 0.08 version.
 
 0.40 2015-09-21T22:40:30+02:00
  - Add Map::Tube::Exception 3.03 version.
