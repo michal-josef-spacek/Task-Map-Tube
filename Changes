@@ -1,6 +1,7 @@
 0.42
  - Update Map::Tube::Exception to 3.04 version.
  - Update Map::Tube::Graph to 0.05 version.
+ - Update Task::Map::Tube::Metro to 0.06 version.
 
 0.41 2015-09-27T18:13:27+02:00
  - Update Task::Map::Tube::Metro to 0.05 version.
