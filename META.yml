@@ -24,7 +24,7 @@ no_index:
 requires:
   Map::Tube: 3.05
   Map::Tube::CLI: 0.13
-  Map::Tube::Exception: 3.04
+  Map::Tube::Exception: 3.05
   Map::Tube::Graph: 0.05
   Map::Tube::GraphViz: 0.06
   Map::Tube::Plugin::Formatter: 0.08
