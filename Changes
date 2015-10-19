@@ -1,6 +1,6 @@
 0.42
  - Fix author requires.
- - Update Map::Tube to 3.06 version.
+ - Update Map::Tube to 3.07 version.
  - Update Map::Tube::Exception to 3.05 version.
  - Update Map::Tube::Graph to 0.05 version.
  - Update Task::Map::Tube::Metro to 0.06 version.
