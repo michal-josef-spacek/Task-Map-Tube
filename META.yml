@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  Map::Tube: 3.07
+  Map::Tube: 3.09
   Map::Tube::CLI: 0.13
   Map::Tube::Exception: 3.05
   Map::Tube::Graph: 0.05
