@@ -1,6 +1,8 @@
 TODO
 ====
-2.
+2. Co delat se zavislostmi, nekde hodne nade mnou?
+   Travis-cl rika, ze GraphViz2 nejde nainstalovat pod perl 5.12.
+3.
 
 Applied
 =======
