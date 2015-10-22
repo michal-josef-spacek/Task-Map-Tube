@@ -33,7 +33,7 @@ requires:
   Map::Tube::Text::Shortest: 0.01
   Map::Tube::Text::Table: 0.04
   Task::Map::Tube::Metro: 0.08
-  Test::Map::Tube: 0.11
+  Test::Map::Tube: 0.12
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Map-Tube
