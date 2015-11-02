@@ -43,6 +43,10 @@ Core library as Role (Moo) to process map data.
 
 Command Line Interface for Map::Tube::* map.
 
+=item L<Map::Tube::Cookbook>
+
+Cookbook for Map::Tube library.
+
 =item L<Map::Tube::Graph>
 
 Graph output for Map::Tube.

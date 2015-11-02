@@ -17,6 +17,9 @@ SEE ALSO
     Map::Tube::CLI
         Command Line Interface for Map::Tube::* map.
 
+    Map::Tube::Cookbook
+        Cookbook for Map::Tube library.
+
     Map::Tube::Graph
         Graph output for Map::Tube.
 
