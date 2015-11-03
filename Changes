@@ -2,7 +2,7 @@
  - Add Map::Tube::Cookbook 0.02 version.
  - Update Map::Tube to 3.12 version.
  - Update Map::Tube::Exception to 3.06 version.
- - Update Test::Map::Tube to 0.13 version.
+ - Update Test::Map::Tube to 0.14 version.
 
 0.42 2015-10-19T07:26:22+02:00
  - Fix author requires.
