@@ -1,4 +1,5 @@
 0.45
+ - Rename LICENSE.artistic to LICENSE file.
  - Update Map::Tube::CLI to 0.17 version.
  - Update Task::Map::Tube::Metro to 0.10 version.
  - Update copyright years.
