@@ -1,6 +1,7 @@
 0.46
  - Update Map::Tube to 3.15 version.
  - Update Map::Tube::CLI to 0.18 version.
+ - Update Map::Tube::Plugin::Formatter to 0.09 version.
  - Update Map::Tube::Plugin::Graph to 0.20 version.
  - Update Task::Map::Tube::Metro to 0.12 version.
  - Update Test::Map::Tube to 0.17 version.

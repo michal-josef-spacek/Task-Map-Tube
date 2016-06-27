@@ -28,7 +28,7 @@ requires:
   Map::Tube::Exception: 3.06
   Map::Tube::Graph: 0.05
   Map::Tube::GraphViz: 0.06
-  Map::Tube::Plugin::Formatter: 0.08
+  Map::Tube::Plugin::Formatter: 0.09
   Map::Tube::Plugin::FuzzyFind: 0.08
   Map::Tube::Plugin::Graph: 0.2
   Map::Tube::Text::Shortest: 0.01
