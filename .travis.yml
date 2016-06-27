@@ -7,7 +7,6 @@ matrix:
     - perl: "5.14"
     - perl: "5.12"
     - perl: "5.10"
-    - perl: "5.8"
 before_install:
     - sudo apt-get update -qq
     - sudo apt-get install -y graphviz
