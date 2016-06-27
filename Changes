@@ -1,4 +1,4 @@
-0.46
+0.46 2016-06-27T11:37:25+02:00
  - Update Map::Tube to 3.15 version.
  - Update Map::Tube::CLI to 0.18 version.
  - Update Map::Tube::Plugin::Formatter to 0.09 version.
