@@ -1,5 +1,6 @@
 0.46
  - Update Map::Tube::Plugin::Graph to 0.20 version.
+ - Update Task::Map::Tube::Metro to 0.12 version.
 
 0.45 2016-04-04T15:14:00+02:00
  - Rename LICENSE.artistic_2 to LICENSE file.
