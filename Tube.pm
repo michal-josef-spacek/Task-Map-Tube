@@ -1,10 +1,8 @@
 package Task::Map::Tube;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.47;
 
 1;
