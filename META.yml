@@ -23,6 +23,7 @@ no_index:
     - xt
 requires:
   Map::Tube: 3.68
+  Map::Tube::API: 0.05
   Map::Tube::CLI: 0.18
   Map::Tube::Cookbook: 0.03
   Map::Tube::Exception: 3.06
