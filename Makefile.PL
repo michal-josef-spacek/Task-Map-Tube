@@ -20,7 +20,7 @@ readme_from 'Tube.pm';
 recursive_author_tests('xt');
 requires 'Map::Tube' => 3.68;
 requires 'Map::Tube::API' => 0.05;
-requires 'Map::Tube::CLI' => 0.18;
+requires 'Map::Tube::CLI' => 0.67;
 requires 'Map::Tube::Cookbook' => 0.03;
 requires 'Map::Tube::Graph' => 0.05;
 requires 'Map::Tube::GraphViz' => 0.06;
