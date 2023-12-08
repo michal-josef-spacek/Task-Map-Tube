@@ -28,7 +28,7 @@ requires:
   Map::Tube::Cookbook: 0.08
   Map::Tube::Exception: 3.21
   Map::Tube::Graph: 0.06
-  Map::Tube::GraphViz: 0.06
+  Map::Tube::GraphViz: 0.07
   Map::Tube::Plugin::Formatter: 0.09
   Map::Tube::Plugin::FuzzyFind: 0.08
   Map::Tube::Plugin::Graph: 0.2
