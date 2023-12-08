@@ -37,7 +37,7 @@ requires:
   Test::Map::Tube: 0.17
   perl: 5.6.0
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Map-Tube
+  bugtracker: https://github.com/tupinek/Task-Map-Tube/issues
   homepage: https://github.com/tupinek/Task-Map-Tube
   license: http://opensource.org/licenses/artistic-license-2.0.php
   repository: git://github.com/tupinek/Task-Map-Tube
