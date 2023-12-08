@@ -8,6 +8,7 @@
  - Update Map::Tube::CLI to 0.67 version.
  - Update Map::Tube::Cookbook to 0.08 version.
  - Update Map::Tube::Exception to 3.21 version.
+ - Update Map::Tube::Graph to 0.06 version.
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update author name.
