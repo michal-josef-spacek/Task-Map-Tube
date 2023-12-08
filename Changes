@@ -13,6 +13,7 @@
  - Update Map::Tube::Plugin::Formatter to 0.17 version.
  - Update Map::Tube::Plugin::Graph to 0.42 version.
  - Update Module::Install to 1.21 version.
+ - Update Test::Map::Tube to 0.57 version.
  - Update author github username.
  - Update author name.
  - Update copyright years.
