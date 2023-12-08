@@ -1,5 +1,6 @@
 0.47
  - Add Map::Tube::API 0.05 version.
+ - Add Map::Tube::Server 0.01 version.
  - Fix use lib '.' in Makefile.PL.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Move bugtracker to github.
