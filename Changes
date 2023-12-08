@@ -14,6 +14,7 @@
  - Update Map::Tube::Plugin::Graph to 0.42 version.
  - Update Module::Install to 1.21 version.
  - Update Test::Map::Tube to 0.57 version.
+ - Update Task::Map::Tube::Metro to 0.13 version.
  - Update author github username.
  - Update author name.
  - Update copyright years.
