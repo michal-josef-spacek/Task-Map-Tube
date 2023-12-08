@@ -81,7 +81,7 @@ Interface to test Map::Tube (map data).
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Map-Tube>
+L<https://github.com/michal-josef-spacek/Task-Map-Tube>
 
 =head1 AUTHOR
 
