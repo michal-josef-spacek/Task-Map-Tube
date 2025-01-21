@@ -1,6 +1,7 @@
 0.48
  - Update Map::Tube to 3.92 version.
  - Update Map::Tube::API to 0.08 version.
+ - Update Map::Tube::CLI to 0.80 version.
  - Update Map::Tube::Server to 0.06 version.
  - Update copyright years.
 

@@ -24,7 +24,7 @@ no_index:
 requires:
   Map::Tube: 3.92
   Map::Tube::API: 0.08
-  Map::Tube::CLI: 0.67
+  Map::Tube::CLI: 0.8
   Map::Tube::Cookbook: 0.08
   Map::Tube::Exception: 3.21
   Map::Tube::Graph: 0.06
