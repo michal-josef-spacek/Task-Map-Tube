@@ -32,7 +32,7 @@ requires:
   Map::Tube::Plugin::FuzzyFind: "\0Q\x01"
   Map::Tube::Plugin::Graph: 0.45
   Map::Tube::Server: 0.06
-  Map::Tube::Text::Shortest: 0.01
+  Map::Tube::Text::Shortest: 0.02
   Map::Tube::Text::Table: 0.04
   Task::Map::Tube::Metro: 0.13
   Test::Map::Tube: 0.57
