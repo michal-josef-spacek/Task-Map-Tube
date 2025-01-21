@@ -32,7 +32,7 @@ requires:
   Map::Tube::Plugin::Formatter: 0.17
   Map::Tube::Plugin::FuzzyFind: 0.08
   Map::Tube::Plugin::Graph: 0.42
-  Map::Tube::Server: 0.01
+  Map::Tube::Server: 0.06
   Map::Tube::Text::Shortest: 0.01
   Map::Tube::Text::Table: 0.04
   Task::Map::Tube::Metro: 0.13

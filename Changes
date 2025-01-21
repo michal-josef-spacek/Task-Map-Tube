@@ -1,5 +1,6 @@
 0.48
  - Update Map::Tube::API to 0.08 version.
+ - Update Map::Tube::Server to 0.06 version.
  - Update copyright years.
 
 0.47 2023-12-08T17:00:11+01:00
