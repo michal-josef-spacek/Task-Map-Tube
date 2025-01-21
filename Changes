@@ -8,6 +8,7 @@
  - Update Map::Tube::Plugin::Graph to 0.45 version.
  - Update Map::Tube::Server to 0.06 version.
  - Update Map::Tube::Text::Shortest to 0.02 version.
+ - Update Map::Tube::Text::Table to 0.05 version.
  - Update copyright years.
 
 0.47 2023-12-08T17:00:11+01:00

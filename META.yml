@@ -33,7 +33,7 @@ requires:
   Map::Tube::Plugin::Graph: 0.45
   Map::Tube::Server: 0.06
   Map::Tube::Text::Shortest: 0.02
-  Map::Tube::Text::Table: 0.04
+  Map::Tube::Text::Table: 0.05
   Task::Map::Tube::Metro: 0.13
   Test::Map::Tube: 0.57
   perl: 5.6.0
