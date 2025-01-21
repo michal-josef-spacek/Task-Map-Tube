@@ -31,7 +31,6 @@ requires 'Map::Tube::Server' => 0.06;
 requires 'Map::Tube::Text::Shortest' => 0.02;
 requires 'Map::Tube::Text::Table' => 0.05;
 requires 'Task::Map::Tube::Metro' => 0.13;
-requires 'Test::Map::Tube' => 0.57;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/Task-Map-Tube/issues';
 resources 'homepage' => 'https://github.com/michal-josef-spacek/Task-Map-Tube';
