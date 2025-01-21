@@ -29,7 +29,7 @@ requires:
   Map::Tube::Graph: 0.06
   Map::Tube::GraphViz: 0.07
   Map::Tube::Plugin::Formatter: 0.17
-  Map::Tube::Plugin::FuzzyFind: 0.08
+  Map::Tube::Plugin::FuzzyFind: "\0Q\x01"
   Map::Tube::Plugin::Graph: 0.42
   Map::Tube::Server: 0.06
   Map::Tube::Text::Shortest: 0.01
