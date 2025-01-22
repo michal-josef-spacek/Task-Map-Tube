@@ -1,4 +1,4 @@
-0.48
+0.48 2025-01-22T08:41:44+01:00
  - Remove Map::Tube::Cookbook, is part of Map::Tube.
  - Remove Test::Map::Tube, is part of Map::Tube.
  - Update Map::Tube to 3.92 version.
