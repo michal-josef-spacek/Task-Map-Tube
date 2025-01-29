@@ -1,4 +1,5 @@
 0.49
+ - Fix copyright years.
  - Fix version of Map::Tube::Plugin::FuzzyFind.
  - Sort requires.
 
