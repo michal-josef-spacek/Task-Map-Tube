@@ -38,7 +38,7 @@ resources 'repository' => 'git://github.com/michal-josef-spacek/Task-Map-Tube';
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;
-version '0.49';
+version '0.50';
 
 # Run.
 WriteAll();
